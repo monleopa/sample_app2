@@ -5,6 +5,8 @@ ruby '2.5.1'
 
 gem 'rails', '~> 5.2.0'
 
+gem 'bootstrap-sass', '3.3.7'
+
 gem 'puma', '~> 3.11'
 
 gem 'sass-rails', '~> 5.0'
