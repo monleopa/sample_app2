@@ -1,0 +1,26 @@
+vi:
+  sessions:
+    create:
+      danger: "Email hoặc mật khẩu không hợp lệ"
+
+  users:
+    create:
+      welcome: "Chào mừng đến với Duc Anh Application!"
+
+  layouts:
+    header:
+      branch: "Duc Anh App"
+      home: "Trang Chủ"
+      help: "Trợ Giúp"
+      users: "Cá Nhân"
+      account: "Tài Khoản"
+      profile: "Thông tin cá nhân"
+      settings: "Cài đặt"
+      logout: "Đăng xuất"
+      login: "Đăng nhập"
+
+  sessions:
+    new:
+      login: "Đăng nhập"
+      newuser: "Người mới?"
+      signup: "Đăng ký ngay!"
