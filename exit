@@ -1,0 +1,34 @@
+[33mcommit 8230559b5781f356a19df13ddc83d6d462bfcb34[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/modeling-users[m[33m, [m[1;32mmodeling-users[m[33m)[m
+Author: Nguyen Duc Anh <ducanh7897@gmail.com>
+Date:   Fri Jul 27 10:55:14 2018 +0700
+
+    modeling-users
+
+[33mcommit caab1b06a6aaffebf7c67bdb18aebdfa47d0b615[m
+Author: Nguyen Duc Anh <ducanh7897@gmail.com>
+Date:   Wed Jul 25 16:11:39 2018 +0700
+
+    modeling-signup
+    
+    fix modeling-users
+
+[33mcommit cc7616f05107071476020244b496b1cc45f47f90[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: e61d538 806ad38
+Author: Nguyen Anh <ducanh7897@gmail.com>
+Date:   Wed Jul 25 14:19:17 2018 +0700
+
+    Merge pull request #1 from monleopa/static-pages
+    
+    Routes link
+
+[33mcommit 806ad382195b9b6dcce7243a6f5f4ebcf224c9d9[m[33m ([m[1;31morigin/static-pages[m[33m)[m
+Author: Nguyen Duc Anh <ducanh7897@gmail.com>
+Date:   Tue Jul 24 14:46:57 2018 +0700
+
+    Routes link
+
+[33mcommit e61d538cbc1b736c63299b8407d4ce453df454ed[m
+Author: Nguyen Duc Anh <ducanh7897@gmail.com>
+Date:   Tue Jul 24 13:53:25 2018 +0700
+
+    Initialize Repository
