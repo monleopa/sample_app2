@@ -11,6 +11,25 @@ en:
   users:
     create:
       welcome: "Welcome to the Duc Anh Application!"
+      updated: "Profile updated"
+      please: "Please log in."
+      deleted: "User deleted"
+      undelete: "Can not delete"
+      admin: "You are admin"
+      user: "You are user, not admin"
+      incorrect: "You are not correct user"
+      failuser: "This user is not exist"
+    edit:
+      title: "Update your profile"
+      savechange: "Save changes"
+      change: "change"
+    new:
+      signup: "Sign Up"
+    index:
+      all: "All Users"
+    user:
+      delete: "delete"
+      sure: "You sure?"
 
   layouts:
     header:
@@ -21,8 +40,7 @@ en:
       account: "Account"
       profile: "Profile"
       settings: "Settings"
-      logout: "Log out"
+      logout: "Log out" 
       login: "Log in"
     application:
       title: "Ruby on Rails Tutorial Sample App"
-    

@@ -2,3 +2,5 @@ sizeImage: 80
 minimum: 6
 maxname: 50
 maxemail: 255
+sizeIndex: 50
+number_page: 5

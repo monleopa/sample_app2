@@ -2,25 +2,41 @@ vi:
   sessions:
     create:
       danger: "Email hoặc mật khẩu không hợp lệ"
+    new:
+      login: "Đăng nhập"
+      newuser: "Người dùng mới?"
+      signup: "Đăng ký ngay!"
+      remember: "Nhớ tài khoản"
 
   users:
     create:
-      welcome: "Chào mừng đến với Duc Anh Application!"
+      welcome: "Welcome to the Duc Anh Application!"
+      updated: "Thông tin đã được cập nhật"
+      please: "Vui lòng đăng nhập."
+      deleted: "Người dùng đã được xóa."
+      admin: "Bạn là người dùng, không phải quản trị viên"
+    edit:
+      title: "Cập nhật thông tin"
+      savechange: "Lưu thay đổi"
+      change: "Thay đổi"
+    new:
+      signup: "Đăng ký"
+    index:
+      all: "Tất cả người dùng"
+    user:
+      delete: "xóa"
+      sure: "Bạn có chắc chắn xóa?"
 
   layouts:
     header:
       branch: "Duc Anh App"
-      home: "Trang Chủ"
-      help: "Trợ Giúp"
-      users: "Cá Nhân"
-      account: "Tài Khoản"
-      profile: "Thông tin cá nhân"
-      settings: "Cài đặt"
-      logout: "Đăng xuất"
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      users: "Người dùng"
+      account: "Tài khoản"
+      profile: "Thông tin"
+      settings: "Chỉnh sửa"
+      logout: "Đăng xuất" 
       login: "Đăng nhập"
-
-  sessions:
-    new:
-      login: "Đăng nhập"
-      newuser: "Người mới?"
-      signup: "Đăng ký ngay!"
+    application:
+      title: "Ruby on Rails Tutorial Sample App"
