@@ -2,6 +2,11 @@ en:
   sessions:
     create:
       danger: "Invalid email/password combination"
+    new:
+      login: "Log in"
+      newuser: "New user?"
+      signup: "Sign up now!"
+      remember: "Remember me on this computer"
 
   users:
     create:
@@ -18,9 +23,6 @@ en:
       settings: "Settings"
       logout: "Log out"
       login: "Log in"
-
-  sessions:
-    new:
-      login: "Log in"
-      newuser: "New user?"
-      signup: "Sign up now!"
+    application:
+      title: "Ruby on Rails Tutorial Sample App"
+    
