@@ -54,7 +54,11 @@ class User < ApplicationRecord
   end
 
   def activate
+<<<<<<< HEAD
     update_columns(activated: true, activated_at: Time.zone.now)
+=======
+    update_columns(activated: FILL_IN, activated_at: FILL_IN)
+>>>>>>> account-active
   end
 
   def send_activation_email

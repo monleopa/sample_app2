@@ -18,7 +18,11 @@ class UsersController < ApplicationController
     @user = User.new user_params
     if @user.save
       @user.send_activation_email
+<<<<<<< HEAD
       flash[:info] = t ".active"
+=======
+      flash[:info] = "Please check your email to activate your account."
+>>>>>>> account-active
       redirect_to root_url
     else
       render :new
