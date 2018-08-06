@@ -26,7 +26,7 @@ vi:
     user:
       delete: "xóa"
       sure: "Bạn có chắc chắn xóa?"
-
+  
   layouts:
     header:
       branch: "Duc Anh App"
@@ -39,4 +39,13 @@ vi:
       logout: "Đăng xuất" 
       login: "Đăng nhập"
     application:
-      title: "Ruby on Rails Tutorial Sample App"
+      title: "Sample app"
+
+  user_mailer:
+    account_activation:
+      title: "Sample App"
+      welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+      active: "Active"
+  password_resets:
+    new:
+      forgot: "Forgot Password"
