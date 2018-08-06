@@ -2,6 +2,7 @@ en:
   sessions:
     create:
       danger: "Invalid email/password combination"
+      notactive: "Account not activated. Check your email for the activation link."
     new:
       login: "Log in"
       newuser: "New user?"
@@ -20,6 +21,7 @@ en:
       user: "You are user, not admin"
       incorrect: "You are not correct user"
       failuser: "This user is not exist"
+      active: "Please check your email to activate your account."
     edit:
       title: "Update your profile"
       savechange: "Save changes"
@@ -46,6 +48,8 @@ en:
     application:
       title: "Ruby on Rails Tutorial Sample App"
 
-  password_resets:
-    new:
-      forgot: "Forgot Password"
+  user_mailer:
+    account_activation:
+      title: "Sample App"
+      welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+      active: "Active"
