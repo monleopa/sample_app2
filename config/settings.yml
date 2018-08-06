@@ -5,3 +5,8 @@ maxemail: 255
 sizeIndex: 50
 number_page: 5
 timeout: 2
+maxpost: 140
+avapost: 50
+imagesize: 5
+wImg: 400
+hImg: 400

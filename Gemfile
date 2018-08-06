@@ -13,8 +13,12 @@ gem "turbolinks", "~> 5"
 gem "jbuilder", "~> 2.5"
 gem "jquery-rails"
 gem "ffaker", "~> 2.2"
+gem "carrierwave", "1.2.2"
+gem "mini_magick", "4.7.0"
+gem "i18n-js", "~> 3.0", ">= 3.0.11"
 gem "kaminari"
 gem "bootsnap", ">= 1.1.0", require: false
+
 group :development, :test do
   gem "sqlite3"
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
