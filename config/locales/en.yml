@@ -7,6 +7,7 @@ en:
       newuser: "New user?"
       signup: "Sign up now!"
       remember: "Remember me on this computer"
+      forgot: "Forgot password?"
 
   users:
     create:
@@ -44,3 +45,7 @@ en:
       login: "Log in"
     application:
       title: "Ruby on Rails Tutorial Sample App"
+
+  password_resets:
+    new:
+      forgot: "Forgot Password"
