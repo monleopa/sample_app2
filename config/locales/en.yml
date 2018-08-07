@@ -71,3 +71,34 @@ en:
       empty: "Can't empty"
       finish: "Password has been reset."
       expired: "Password reset has expired."
+
+  microposts:
+    create:
+      posted: "Micropost created!"
+      smaller_five_mb: "should be less than 5MB"
+    destroy:
+      deleted: "Micropost deleted"
+      undeleted: "Can't delete"
+      not_user: "Not correct user"
+    micropost:
+      sure: "Are you sure?"
+
+  shared:
+    user_info:
+      view: "view my profile"
+    micropost_form:
+      post: "Post"
+      compose: "Compose new micropost..."
+
+  static_pages:
+    home:
+      feed: "Microposts feed"
+      this: " This is the home page for the"
+      sample: "sample application."
+      signup: "Sign up now!"
+      rortur: "Ruby on Rails Tutorial"
+
+  custom:
+    alert:
+      maxfile: "Maximum file size is 5MB. Please choose a smaller file."
+    
