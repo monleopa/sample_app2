@@ -11,6 +11,8 @@ en:
       forgot: "Forgot password?"
 
   users:
+    following: "Following"
+    follower: "Follower"
     create:
       welcome: "Welcome to the Duc Anh Application!"
       updated: "Profile updated"
@@ -33,6 +35,12 @@ en:
     user:
       delete: "delete"
       sure: "You sure?"
+    follow:
+      follow: "follow"
+    unfollow:
+      unfollow: "unfollow"
+    show_follow:
+      microposts: "Microposts:"
   
   layouts:
     header:
@@ -89,6 +97,9 @@ en:
     micropost_form:
       post: "Post"
       compose: "Compose new micropost..."
+    start:
+      following: "following"
+      followers: "followers"
 
   static_pages:
     home:
